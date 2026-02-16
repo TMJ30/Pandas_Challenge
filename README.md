@@ -1,6 +1,6 @@
 # School District Performance Analysis
 **Overview**
 
-This project analyzes district-wide standardized test results trends in school performance. The analysis is intended to suppport data-driven decision-making for budgeting, resource allocation, and academic planning. 
+This project simulates a real-world education analytics scenario. Acting in the role of a Chief Data Scientist for a city school district, I analyze distrct-wide standardized test data to identify performance trends, compare schools, and generate insights that could inform strategic planning and resource allocation. 
 
 
