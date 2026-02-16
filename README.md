@@ -5,8 +5,8 @@ This project simulates district-wide standaridzed test performance through a sim
 
 Using **Pandas** and **Jupyter Notebook**, this analysis aggregated student- and school-level data to produce district sumamries, school comparisons, and performanc breakdowns across multiple dimensions.
 
-## dataset
-The Dataset incldues:
+## Dataset
+The dataset incldues:
 * 15 schools
 * 39,170 students
 * Student-level math scores
