@@ -9,5 +9,9 @@ Using **Pandas** and **Jupyter Notebook**, this analysis aggregated student- and
 The Dataset incldues the following:
 * Student-level math scores
 * Student-level reading scores
+* Grade level information (9th-12th)
 * School-level information (e.g., school name, type, size, budget, etc.)
+
+## Analysis Breakdown
+### **District Summary**
 
