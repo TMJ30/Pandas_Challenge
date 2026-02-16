@@ -39,9 +39,11 @@ A school-by-school peformance breakdown including:
 
 ## **Performance Rankings**
 **Top Performaing Schools**
+
 Schools ranked by highest overall passing percentage.
 
 **Lowest Performaing Schools**
+
 Schools ranked by lowest overall passing percentage.
 
 ## **Performance by Spending**
