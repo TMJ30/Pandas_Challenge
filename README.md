@@ -14,4 +14,46 @@ The Dataset incldues the following:
 
 ## Analysis Breakdown
 ### **District Summary**
+A high-level snapshot of distric perfomance, including: 
+* Total number of schools
+* Total number of students
+* Total district budget
+* Average math score
+* Average reading school
+* Percentage passing math
+* Percentage passing reading
+* OVerall passing rate (Students passing both subjects)
 
+### **School Summary**
+A school-by-school peformance breakdown including:
+* School name
+* School type
+* Total students
+* Total school budget
+* Per-Student budget
+* Average match score
+* Average reading score
+* Percent passing math
+* Percent passing reading
+* Percent overall passing
+
+## **Performance Rankings**
+**Top Performaing Schools**
+Schools ranked by highest overall passing percentage.
+
+**Lowest Performaing Schools**
+Schools ranked by lowest overall passing percentage.
+
+## **Performance by Spending**
+Schools are grouped into spending ranges based on per-student budget:
+* <$585
+* $585-630
+* $630-645
+* $645-680
+
+For each spending range, the analysis includes:
+* Average math score
+* Average reading score
+* Percentage passing math
+* Percentage passing reading
+* Percentage overall passing
