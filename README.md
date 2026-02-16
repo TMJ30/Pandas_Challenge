@@ -33,11 +33,11 @@ A school-by-school peformance breakdown including:
 * Per-Student budget
 * Average match score
 * Average reading score
-* Percent passing math
-* Percent passing reading
-* Percent overall passing
+* Percentage passing math
+* Percentage passing reading
+* Percentage overall passing
 
-## **Performance Rankings**
+### **Performance Rankings**
 **Top Performaing Schools**
 
 Schools ranked by highest overall passing percentage.
@@ -46,11 +46,11 @@ Schools ranked by highest overall passing percentage.
 
 Schools ranked by lowest overall passing percentage.
 
-## **Academic PErformance by Grade Level**
+### **Academic PErformance by Grade Level**
 * Average math score by grade (9th-12th) for each school
 * Average reading scores by grade (9th-12th) for each school
 
-## **Performance by Spending**
+### **Performance by Spending**
 Schools are grouped into spending ranges based on per-student budget:
 * <$585
 * $585-630
@@ -63,3 +63,30 @@ For each spending range, the analysis includes:
 * Percentage passing math
 * Percentage passing reading
 * Percentage overall passing
+
+### **Performance by School Size**
+Schools are categorized into:
+* Small (<1000 students)
+* Medium (1000-2000 students)
+* Large (2000-5000 studnets)
+
+For each size category, the following metrics are calculated:
+* Average math score
+* Average reading score
+* Percentage passing math
+* Percentage passing reading
+* Percentage overall passing
+
+### **Performance by School Type**
+A comparison of academic performance based on school type (e.g., Charter vs District), inclding
+* Average math score
+* Average reading score
+* Percentage passing math
+* Percentage passing reading
+* Percentage overall passing
+
+### **Key Insights**
+The final report includes written observations highlighting at least two major trends identified in the data. These inisghts focus on relationships between
+* School funding and academic performance
+* School size and student outcomes
+* School types and passing rates
