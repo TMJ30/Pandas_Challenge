@@ -46,6 +46,10 @@ Schools ranked by highest overall passing percentage.
 
 Schools ranked by lowest overall passing percentage.
 
+## **Academic PErformance by Grade Level**
+* Average math score by grade (9th-12th) for each school
+* Average reading scores by grade (9th-12th) for each school
+
 ## **Performance by Spending**
 Schools are grouped into spending ranges based on per-student budget:
 * <$585
